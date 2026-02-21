@@ -15,13 +15,13 @@ Es importante porque cada tipo de dato ocupa un espacio diferente en memoria y a
 
 2. Justificación Técnica
 
-Clasificación de Edad
+Clasificación de Edad:
 Utilicé if-else porque la clasificación maneja rangos de números, por ejemplo de 12 a 17 años. El switch no puede evaluar rangos, solo valores exactos, por eso if-else fue la opción más adecuada.
 
-Día de la Semana
+Día de la Semana:
 Utilicé switch porque cada número del 1 al 7 corresponde a un valor exacto. El switch es ideal para este caso ya que compara un valor específico contra múltiples opciones fijas.
 
-Verificación de Acceso
+Verificación de Acceso:
 Utilicé if-else porque necesitaba verificar múltiples condiciones en orden: primero si el usuario existe, luego si la contraseña es correcta. El switch no es adecuado para comparar cadenas de texto con condiciones dependientes entre sí.
 
 
