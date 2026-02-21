@@ -1,9 +1,5 @@
 # VariablesYOperadores
 
-Descripción
-Proyecto de Java que practica el uso de variables, operadores matemáticos, operadores lógicos y estructuras de control.
-
-
 1. Respuestas Teóricas
 
 ¿Para qué se utilizan los operadores lógicos en programación?
