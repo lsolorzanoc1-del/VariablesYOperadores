@@ -7,7 +7,7 @@ Proyecto de Java que practica el uso de variables, operadores matemáticos, oper
 1. Respuestas Teóricas
 
 ¿Para qué se utilizan los operadores lógicos en programación?
-Los operadores lógicos se utilizan para combinar o comparar condiciones. Por ejemplo, con AND (&&) puedo verificar que dos condiciones sean verdaderas al mismo tiempo, y con OR (||) verifico si al menos una condición es verdadera. Esto me permite tomar decisiones más complejas en mis programas.
+Los operadores lógicos se utilizan para combinar o comparar condiciones. Por ejemplo, con AND puedo verificar que dos condiciones sean verdaderas al mismo tiempo, y con OR  verifico si al menos una condición es verdadera. Esto me permite tomar decisiones más complejas en mis programas.
 
 ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
 Es importante porque cada tipo de dato ocupa un espacio diferente en memoria y acepta diferentes valores. Si declaro mal el tipo, el programa puede dar errores o resultados incorrectos. Por ejemplo, si uso int para guardar un número con decimales, los decimales se pierden.
